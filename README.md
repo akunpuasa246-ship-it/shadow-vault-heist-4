@@ -4,6 +4,8 @@
 [![rank](https://make.fun/badge/best-heist-game-20261122-0559/akunpuasa246-ship-it/shadow-vault-heist-4/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
 [![reward](https://make.fun/badge/best-heist-game-20261122-0559/akunpuasa246-ship-it/shadow-vault-heist-4/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
 
+> Top-down stealth heist: thief navigates guards with vision cones, sweeping cameras, loot target, and rising alarm meter — all visible in one frame.
+
 A cinematic top-down heist game — slip past guards with vision cones, dodge sweeping security cameras, grab the loot, and escape before the alarm maxes out. Three increasingly tense levels: The Gallery, The Vault, and The Penthouse.
 
 **Run it:** open `game/index.html` in desktop Chrome, or `node serve.ts` then visit `http://localhost:8080`
